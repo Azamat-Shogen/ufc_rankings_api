@@ -1,0 +1,1715 @@
+[
+    {
+        "fighters": [
+            {
+                "athlete": "Kamaru Usman",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/68441%252Fprofile-galery%252Fprofile-picture%252FUSMAN_KAMARU_BELT_04-24.png?VersionId=null&itok=ygbE556I",
+                "champion": true,
+                "record": "19-1-0 (W-L-D)",
+                "nickname": "Nigerian Nightmare"
+            },
+            {
+                "athlete": "Alexander Volkanovski",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-1-0 (W-L-D)",
+                "nickname": "The Great"
+            },
+            {
+                "athlete": "Israel Adesanya",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-1-0 (W-L-D)",
+                "nickname": "The Last Stylebender"
+            },
+            {
+                "athlete": "Francis Ngannou",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-3-0 (W-L-D)",
+                "nickname": "The Predator"
+            },
+            {
+                "athlete": "Dustin Poirier",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "28-6-0 (W-L-D)",
+                "nickname": "The Diamond"
+            },
+            {
+                "athlete": "Jon Jones",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "26-1-0 (W-L-D)",
+                "nickname": "Bones"
+            },
+            {
+                "athlete": "Max Holloway",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-6-0 (W-L-D)",
+                "nickname": "Blessed"
+            },
+            {
+                "athlete": "Charles Oliveira",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "31-8-0 (W-L-D)",
+                "nickname": "Do Bronx"
+            },
+            {
+                "athlete": "Stipe Miocic",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-4-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Brandon Moreno",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-5-2 (W-L-D)",
+                "nickname": "The Assassin Baby"
+            },
+            {
+                "athlete": "Petr Yan",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-2-0 (W-L-D)",
+                "nickname": "No Mercy"
+            },
+            {
+                "athlete": "Glover Teixeira",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "33-7-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Robert Whittaker",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "24-5-0 (W-L-D)",
+                "nickname": "The Reaper"
+            },
+            {
+                "athlete": "Jan Blachowicz",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "28-8-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Ciryl Gane",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-0-0 (W-L-D)",
+                "nickname": "Bon Gamin"
+            }
+        ],
+        "weight_class": "Pound-for-Pound Top Rank"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Brandon Moreno",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/MORENO_BRANDON_06-12_BELT.png?VersionId=null&itok=wqmKmR4F",
+                "champion": true,
+                "record": "19-5-2 (W-L-D)",
+                "nickname": "The Assassin Baby"
+            },
+            {
+                "athlete": "Deiveson Figueiredo",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-2-1 (W-L-D)",
+                "nickname": "Deus da Guerra"
+            },
+            {
+                "athlete": "Askar Askarov",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-0-1 (W-L-D)",
+                "nickname": "Bullet"
+            },
+            {
+                "athlete": "Alexandre Pantoja",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "24-5-0 (W-L-D)",
+                "nickname": "The Cannibal"
+            },
+            {
+                "athlete": "Alex Perez",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "24-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Brandon Royval",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-6-0 (W-L-D)",
+                "nickname": "Raw Dawg"
+            },
+            {
+                "athlete": "Kai Kara France",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-9-0 (W-L-D)",
+                "nickname": "Don't Blink"
+            },
+            {
+                "athlete": "Rogerio Bontorin",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Matheus Nicolau",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-3-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Matt Schnell",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-6-0 (W-L-D)",
+                "nickname": "Danger"
+            },
+            {
+                "athlete": "David Dvorak",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-3-0 (W-L-D)",
+                "nickname": "Undertaker"
+            },
+            {
+                "athlete": "Tim Elliott",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-12-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Amir Albazi",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-1-0 (W-L-D)",
+                "nickname": "The Prince"
+            },
+            {
+                "athlete": "Sumudaerji",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-4-0 (W-L-D)",
+                "nickname": "The Tibetan Eagle"
+            },
+            {
+                "athlete": "Manel Kape",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-6-0 (W-L-D)",
+                "nickname": "StarBoy"
+            },
+            {
+                "athlete": "Tagir Ulanbekov",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-1-0 (W-L-D)",
+                "nickname": null
+            }
+        ],
+        "weight_class": "Flyweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Aljamain Sterling",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-08/67275%252Fprofile-galery%252Fprofile-picture%252FSTERLING_ALJAMAIN_BELT.png?itok=8AJsTCoT",
+                "champion": true,
+                "record": "20-3-0 (W-L-D)",
+                "nickname": "Funk Master"
+            },
+            {
+                "athlete": "Petr Yan",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-2-0 (W-L-D)",
+                "nickname": "No Mercy"
+            },
+            {
+                "athlete": "TJ Dillashaw",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-4-0 (W-L-D)",
+                "nickname": "Killashaw"
+            },
+            {
+                "athlete": "Jos\u00e9 Aldo",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "30-7-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Cory Sandhagen",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Rob Font",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-4-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Merab Dvalishvili",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-4-0 (W-L-D)",
+                "nickname": "The Machine"
+            },
+            {
+                "athlete": "Cody Garbrandt",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-4-0 (W-L-D)",
+                "nickname": "No Love"
+            },
+            {
+                "athlete": "Pedro Munhoz",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-6-0 (W-L-D)",
+                "nickname": "The Young Punisher"
+            },
+            {
+                "athlete": "Dominick Cruz",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-3-0 (W-L-D)",
+                "nickname": "The Dominator"
+            },
+            {
+                "athlete": "Marlon Moraes",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-9-1 (W-L-D)",
+                "nickname": "Magic"
+            },
+            {
+                "athlete": "Marlon Vera",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-7-1 (W-L-D)",
+                "nickname": "Chito"
+            },
+            {
+                "athlete": "Raphael Assuncao",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "27-8-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Frankie Edgar",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-9-1 (W-L-D)",
+                "nickname": "The Answer"
+            },
+            {
+                "athlete": "Song Yadong",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-5-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Cody Stamann",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-4-1 (W-L-D)",
+                "nickname": "Spartan"
+            }
+        ],
+        "weight_class": "Bantamweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Alexander Volkanovski",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-09/67233%252Fprofile-galery%252Fprofile-picture%252FVOLKANOVSKI_ALEXANDER_BELT_09-25.png?itok=ws7CU2gT",
+                "champion": true,
+                "record": "23-1-0 (W-L-D)",
+                "nickname": "The Great"
+            },
+            {
+                "athlete": "Max Holloway",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-6-0 (W-L-D)",
+                "nickname": "Blessed"
+            },
+            {
+                "athlete": "Brian Ortega",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-2-0 (W-L-D)",
+                "nickname": "T-City"
+            },
+            {
+                "athlete": "Yair Rodriguez",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-3-0 (W-L-D)",
+                "nickname": "El Pantera"
+            },
+            {
+                "athlete": "Chan Sung Jung",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-6-0 (W-L-D)",
+                "nickname": "The Korean Zombie"
+            },
+            {
+                "athlete": "Calvin Kattar",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-5-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Arnold Allen",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-1-0 (W-L-D)",
+                "nickname": "Almighty"
+            },
+            {
+                "athlete": "Giga Chikadze",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-2-0 (W-L-D)",
+                "nickname": "Ninja"
+            },
+            {
+                "athlete": "Josh Emmett",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Dan Ige",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-4-0 (W-L-D)",
+                "nickname": "50K"
+            },
+            {
+                "athlete": "Edson Barboza",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-10-0 (W-L-D)",
+                "nickname": "Junior"
+            },
+            {
+                "athlete": "Bryce Mitchell",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-1-0 (W-L-D)",
+                "nickname": "Thug Nasty"
+            },
+            {
+                "athlete": "Sodiq Yusuff",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-2-0 (W-L-D)",
+                "nickname": "Super"
+            },
+            {
+                "athlete": "Movsar Evloev",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-0-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Shane Burgos",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-3-0 (W-L-D)",
+                "nickname": "Hurricane"
+            },
+            {
+                "athlete": "Alex Caceres",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-12-0 (W-L-D)",
+                "nickname": "Bruce Leeroy"
+            }
+        ],
+        "weight_class": "Featherweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Charles Oliveira",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-06/67583%252Fprofile-galery%252Fprofile-picture%252FOLIVEIRA_CHARLES_BeltMock.png?VersionId=null&itok=d-4Qd-4y",
+                "champion": true,
+                "record": "31-8-0 (W-L-D)",
+                "nickname": "Do Bronx"
+            },
+            {
+                "athlete": "Dustin Poirier",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "28-6-0 (W-L-D)",
+                "nickname": "The Diamond"
+            },
+            {
+                "athlete": "Justin Gaethje",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-3-0 (W-L-D)",
+                "nickname": "The Highlight"
+            },
+            {
+                "athlete": "Beneil Dariush",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-4-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Islam Makhachev",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Michael Chandler",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-6-0 (W-L-D)",
+                "nickname": "Iron"
+            },
+            {
+                "athlete": "Rafael Dos Anjos",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "29-13-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Tony Ferguson",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "26-6-0 (W-L-D)",
+                "nickname": "El Cucuy"
+            },
+            {
+                "athlete": "Dan Hooker",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-11-0 (W-L-D)",
+                "nickname": "The Hangman"
+            },
+            {
+                "athlete": "Conor McGregor",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-6-0 (W-L-D)",
+                "nickname": "The Notorious"
+            },
+            {
+                "athlete": "Gregor Gillespie",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-1-0 (W-L-D)",
+                "nickname": "The Gift"
+            },
+            {
+                "athlete": "Rafael Fiziev",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-1-0 (W-L-D)",
+                "nickname": "Ataman"
+            },
+            {
+                "athlete": "Diego Ferreira",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-4-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Arman Tsarukyan",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-2-0 (W-L-D)",
+                "nickname": "Ahalkalakets"
+            },
+            {
+                "athlete": "Brad Riddell",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-1-0 (W-L-D)",
+                "nickname": "Quake"
+            },
+            {
+                "athlete": "Joel Alvarez",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-2-0 (W-L-D)",
+                "nickname": "El Fenomeno"
+            }
+        ],
+        "weight_class": "Lightweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Kamaru Usman",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/68441%252Fprofile-galery%252Fprofile-picture%252FUSMAN_KAMARU_BELT_04-24.png?VersionId=null&itok=ygbE556I",
+                "champion": true,
+                "record": "19-1-0 (W-L-D)",
+                "nickname": "Nigerian Nightmare"
+            },
+            {
+                "athlete": "Colby Covington",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-2-0 (W-L-D)",
+                "nickname": "Chaos"
+            },
+            {
+                "athlete": "Gilbert Burns",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-4-0 (W-L-D)",
+                "nickname": "Durinho"
+            },
+            {
+                "athlete": "Leon Edwards",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-3-0 (W-L-D)",
+                "nickname": "Rocky"
+            },
+            {
+                "athlete": "Vicente Luque",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-7-1 (W-L-D)",
+                "nickname": "The Silent Assassin"
+            },
+            {
+                "athlete": "Stephen Thompson",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-5-1 (W-L-D)",
+                "nickname": "Wonderboy"
+            },
+            {
+                "athlete": "Jorge Masvidal",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "35-15-0 (W-L-D)",
+                "nickname": "Gamebred"
+            },
+            {
+                "athlete": "Neil Magny",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "25-9-0 (W-L-D)",
+                "nickname": "The Haitian Sensation"
+            },
+            {
+                "athlete": "Sean Brady",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-0-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Michael Chiesa",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-6-0 (W-L-D)",
+                "nickname": "Maverick"
+            },
+            {
+                "athlete": "Belal Muhammad",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-3-0 (W-L-D)",
+                "nickname": "Remember The Name"
+            },
+            {
+                "athlete": "Khamzat Chimaev",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-0-0 (W-L-D)",
+                "nickname": "Borz"
+            },
+            {
+                "athlete": "Geoff Neal",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-4-0 (W-L-D)",
+                "nickname": "Handz of Steel"
+            },
+            {
+                "athlete": "Li Jingliang",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-7-0 (W-L-D)",
+                "nickname": "The Leech"
+            },
+            {
+                "athlete": "Santiago Ponzinibbio",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "29-4-0 (W-L-D)",
+                "nickname": "Argentine Dagger"
+            },
+            {
+                "athlete": "Muslim Salikhov",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-2-0 (W-L-D)",
+                "nickname": "King of Kung Fu"
+            }
+        ],
+        "weight_class": "Welterweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Israel Adesanya",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-03/68129%252Fprofile-galery%252Fprofile-picture%252FADESANYA_ISRAEL_BELT_03-06.png?VersionId=null&itok=dd9-3zDu",
+                "champion": true,
+                "record": "21-1-0 (W-L-D)",
+                "nickname": "The Last Stylebender"
+            },
+            {
+                "athlete": "Robert Whittaker",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "24-5-0 (W-L-D)",
+                "nickname": "The Reaper"
+            },
+            {
+                "athlete": "Marvin Vettori",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-5-1 (W-L-D)",
+                "nickname": "The Italian Dream"
+            },
+            {
+                "athlete": "Jared Cannonier",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-5-0 (W-L-D)",
+                "nickname": "Tha Killa Gorilla"
+            },
+            {
+                "athlete": "Derek Brunson",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "23-7-0 (W-L-D)",
+                "nickname": "The 1"
+            },
+            {
+                "athlete": "Paulo Costa",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-1-0 (W-L-D)",
+                "nickname": "The Eraser"
+            },
+            {
+                "athlete": "Jack Hermansson",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-6-0 (W-L-D)",
+                "nickname": "The Joker"
+            },
+            {
+                "athlete": "Sean Strickland",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "24-3-1 (W-L-D)",
+                "nickname": "Tarzan"
+            },
+            {
+                "athlete": "Darren Till",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-4-1 (W-L-D)",
+                "nickname": "The Gorilla"
+            },
+            {
+                "athlete": "Uriah Hall",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-10-0 (W-L-D)",
+                "nickname": "Prime Time"
+            },
+            {
+                "athlete": "Kelvin Gastelum",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-8-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Brad Tavares",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-7-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Nassourdine Imavov",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Chris Weidman",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-6-0 (W-L-D)",
+                "nickname": "The All-American"
+            },
+            {
+                "athlete": "Kevin Holland",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-7-0 (W-L-D)",
+                "nickname": "Trailblazer"
+            },
+            {
+                "athlete": "Edmen Shahbazyan",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-2-0 (W-L-D)",
+                "nickname": "The Golden Boy"
+            }
+        ],
+        "weight_class": "Middleweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Glover Teixeira",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-10/68036%252Fprofile-galery%252Fprofile-picture%252FTEIXEIRA_GLOVER_10-30.png?itok=KueMqvEh",
+                "champion": true,
+                "record": "33-7-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Jan Blachowicz",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "28-8-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Jiri Prochazka",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "28-3-1 (W-L-D)",
+                "nickname": "BJP"
+            },
+            {
+                "athlete": "Aleksandar Rakic",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Anthony Smith",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "36-16-0 (W-L-D)",
+                "nickname": "Lionheart"
+            },
+            {
+                "athlete": "Thiago Santos",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-9-0 (W-L-D)",
+                "nickname": "Marreta"
+            },
+            {
+                "athlete": "Magomed Ankalaev",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Dominick Reyes",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-3-0 (W-L-D)",
+                "nickname": "The Devastator"
+            },
+            {
+                "athlete": "Volkan Oezdemir",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-6-0 (W-L-D)",
+                "nickname": "No Time"
+            },
+            {
+                "athlete": "Nikita Krylov",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "27-8-0 (W-L-D)",
+                "nickname": "The Miner"
+            },
+            {
+                "athlete": "Johnny Walker",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Paul Craig",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-4-1 (W-L-D)",
+                "nickname": "BearJew"
+            },
+            {
+                "athlete": "Jamahal Hill",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "8-1-0 (W-L-D)",
+                "nickname": "Sweet Dreams"
+            },
+            {
+                "athlete": "Ryan Spann",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-7-0 (W-L-D)",
+                "nickname": "Superman"
+            },
+            {
+                "athlete": "Jimmy Crute",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Ion Cutelaba",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-6-1 (W-L-D)",
+                "nickname": "The Hulk"
+            }
+        ],
+        "weight_class": "Light Heavyweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Francis Ngannou",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-04/67964%252Fprofile-galery%252Fprofile-picture%252FNGANNOU_FRANCIS_BELT.png?VersionId=null&itok=g4LYm2hq",
+                "champion": true,
+                "record": "16-3-0 (W-L-D)",
+                "nickname": "The Predator"
+            },
+            {
+                "athlete": "Ciryl Gane",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-0-0 (W-L-D)",
+                "nickname": "Bon Gamin"
+            },
+            {
+                "athlete": "Stipe Miocic",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-4-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Derrick Lewis",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "25-8-0 (W-L-D)",
+                "nickname": "The Black Beast"
+            },
+            {
+                "athlete": "Curtis Blaydes",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-3-0 (W-L-D)",
+                "nickname": "Razor"
+            },
+            {
+                "athlete": "Alexander Volkov",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "33-9-0 (W-L-D)",
+                "nickname": "Drago"
+            },
+            {
+                "athlete": "Jairzinho Rozenstruik",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-3-0 (W-L-D)",
+                "nickname": "Bigi Boy"
+            },
+            {
+                "athlete": "Chris Daukaus",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Shamil Abdurakhimov",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "20-6-0 (W-L-D)",
+                "nickname": "Abrek"
+            },
+            {
+                "athlete": "Marcin Tybura",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-6-0 (W-L-D)",
+                "nickname": "Tybur"
+            },
+            {
+                "athlete": "Tom Aspinall",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Augusto Sakai",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-3-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Blagoy Ivanov",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-4-0 (W-L-D)",
+                "nickname": "Baga"
+            },
+            {
+                "athlete": "Walt Harris",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-10-0 (W-L-D)",
+                "nickname": "The Big Ticket"
+            },
+            {
+                "athlete": "Sergei Pavlovich",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Serghei Spivac",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-3-0 (W-L-D)",
+                "nickname": "Polar Bear"
+            }
+        ],
+        "weight_class": "Heavyweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Amanda Nunes",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-03/67289%252Fprofile-galery%252Fprofile-picture%252FNUNES_AMANDA_BELT_03-06.png?VersionId=null&itok=T_TfzMQS",
+                "champion": true,
+                "record": "21-4-0 (W-L-D)",
+                "nickname": "The Lioness"
+            },
+            {
+                "athlete": "Valentina Shevchenko",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-3-0 (W-L-D)",
+                "nickname": "Bullet"
+            },
+            {
+                "athlete": "Rose Namajunas",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-4-0 (W-L-D)",
+                "nickname": "Thug"
+            },
+            {
+                "athlete": "Zhang Weili",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-2-0 (W-L-D)",
+                "nickname": "Magnum"
+            },
+            {
+                "athlete": "Jessica Andrade",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-9-0 (W-L-D)",
+                "nickname": "Bate Estaca"
+            },
+            {
+                "athlete": "Holly Holm",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-5-0 (W-L-D)",
+                "nickname": "The Preacher's Daughter"
+            },
+            {
+                "athlete": "Carla Esparza",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-6-0 (W-L-D)",
+                "nickname": "Cookie Monster"
+            },
+            {
+                "athlete": "Katlyn Chookagian",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-4-0 (W-L-D)",
+                "nickname": "Blonde Fighter"
+            },
+            {
+                "athlete": "Marina Rodriguez",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-1-2 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Yan Xiaonan",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Julianna Pe\u00f1a",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-4-0 (W-L-D)",
+                "nickname": "The Venezuelan Vixen"
+            },
+            {
+                "athlete": "Irene Aldana",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Mackenzie Dern",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Lauren Murphy",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-5-0 (W-L-D)",
+                "nickname": "Lucky"
+            },
+            {
+                "athlete": "Aspen Ladd",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-1-0 (W-L-D)",
+                "nickname": null
+            }
+        ],
+        "weight_class": "Pound-for-Pound Top Rank"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Rose Namajunas",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-11/69149%252Fprofile-galery%252Fprofile-picture%252FNAMAJUNAS_ROSE_BELT_11-06.png?itok=j6kwoS8-",
+                "champion": true,
+                "record": "11-4-0 (W-L-D)",
+                "nickname": "Thug"
+            },
+            {
+                "athlete": "Zhang Weili",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "21-2-0 (W-L-D)",
+                "nickname": "Magnum"
+            },
+            {
+                "athlete": "Carla Esparza",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-6-0 (W-L-D)",
+                "nickname": "Cookie Monster"
+            },
+            {
+                "athlete": "Marina Rodriguez",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-1-2 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Yan Xiaonan",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Mackenzie Dern",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Nina Nunes",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-7-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Claudia Gadelha",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-5-0 (W-L-D)",
+                "nickname": "Claudinha"
+            },
+            {
+                "athlete": "Tecia Torres",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-5-0 (W-L-D)",
+                "nickname": "The Tiny Tornado"
+            },
+            {
+                "athlete": "Michelle Waterson",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "18-9-0 (W-L-D)",
+                "nickname": "The Karate Hottie"
+            },
+            {
+                "athlete": "Amanda Ribas",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-2-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Amanda Lemos",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-1-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Angela Hill",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-10-0 (W-L-D)",
+                "nickname": "Overkill"
+            },
+            {
+                "athlete": "Virna Jandiroba",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "17-2-0 (W-L-D)",
+                "nickname": "Carcar\u00e1"
+            },
+            {
+                "athlete": "Jessica Penne",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Brianna Van Buren",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-3-0 (W-L-D)",
+                "nickname": "The Bull"
+            }
+        ],
+        "weight_class": "Women's Strawweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Valentina Shevchenko",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2020-02/SHEVCHENKO_VALENTINA_BELT.png?VersionId=9gAF.xDytLtPtZ_qggE7dzZoNZW3xZqp&itok=91E7q3D7",
+                "champion": true,
+                "record": "22-3-0 (W-L-D)",
+                "nickname": "Bullet"
+            },
+            {
+                "athlete": "Jessica Andrade",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "22-9-0 (W-L-D)",
+                "nickname": "Bate Estaca"
+            },
+            {
+                "athlete": "Katlyn Chookagian",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-4-0 (W-L-D)",
+                "nickname": "Blonde Fighter"
+            },
+            {
+                "athlete": "Lauren Murphy",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-5-0 (W-L-D)",
+                "nickname": "Lucky"
+            },
+            {
+                "athlete": "Jennifer Maia",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-7-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Taila Santos",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Joanne Wood",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-7-0 (W-L-D)",
+                "nickname": "JoJo"
+            },
+            {
+                "athlete": "Viviane Araujo",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-3-0 (W-L-D)",
+                "nickname": "Vivi"
+            },
+            {
+                "athlete": "Andrea Lee",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-5-0 (W-L-D)",
+                "nickname": "KGB"
+            },
+            {
+                "athlete": "Jessica Eye",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-10-0 (W-L-D)",
+                "nickname": "Evil"
+            },
+            {
+                "athlete": "Cynthia Calvillo",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-4-1 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Alexa Grasso",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Roxanne Modafferi",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "25-20-0 (W-L-D)",
+                "nickname": "The Happy Warrior"
+            },
+            {
+                "athlete": "Maycee Barber",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-2-0 (W-L-D)",
+                "nickname": "The Future"
+            },
+            {
+                "athlete": "Manon Fiorot",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "7-1-0 (W-L-D)",
+                "nickname": "The Beast"
+            },
+            {
+                "athlete": "Casey O'Neill",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "8-0-0 (W-L-D)",
+                "nickname": "King"
+            }
+        ],
+        "weight_class": "Women's Flyweight"
+    },
+    {
+        "fighters": [
+            {
+                "athlete": "Amanda Nunes",
+                "rank": 0,
+                "img_src": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_profile_listing_medium_1x/s3/2021-03/67289%252Fprofile-galery%252Fprofile-picture%252FNUNES_AMANDA_BELT_03-06.png?VersionId=null&itok=T_TfzMQS",
+                "champion": true,
+                "record": "21-4-0 (W-L-D)",
+                "nickname": "The Lioness"
+            },
+            {
+                "athlete": "Holly Holm",
+                "rank": "1          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-5-0 (W-L-D)",
+                "nickname": "The Preacher's Daughter"
+            },
+            {
+                "athlete": "Irene Aldana",
+                "rank": "2          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "13-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Julianna Pe\u00f1a",
+                "rank": "3          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "11-4-0 (W-L-D)",
+                "nickname": "The Venezuelan Vixen"
+            },
+            {
+                "athlete": "Aspen Ladd",
+                "rank": "4          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Ketlen Vieira",
+                "rank": "5          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-2-0 (W-L-D)",
+                "nickname": "Fenomeno"
+            },
+            {
+                "athlete": "Yana Kunitskaya",
+                "rank": "6          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "14-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Miesha Tate",
+                "rank": "7          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "19-8-0 (W-L-D)",
+                "nickname": "Cupcake"
+            },
+            {
+                "athlete": "Raquel Pennington",
+                "rank": "8          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-9-0 (W-L-D)",
+                "nickname": "Rocky"
+            },
+            {
+                "athlete": "Sara McMann",
+                "rank": "9          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "12-6-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Macy Chiasson",
+                "rank": "10          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "8-1-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Lina Lansberg",
+                "rank": "11          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "10-5-0 (W-L-D)",
+                "nickname": "Elbow Queen"
+            },
+            {
+                "athlete": "Karol Rosa",
+                "rank": "12          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "15-3-0 (W-L-D)",
+                "nickname": null
+            },
+            {
+                "athlete": "Pannie Kianzad",
+                "rank": "13          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "16-6-0 (W-L-D)",
+                "nickname": "Banzai"
+            },
+            {
+                "athlete": "Julia Avila",
+                "rank": "14          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "9-2-0 (W-L-D)",
+                "nickname": "Raging Panda"
+            },
+            {
+                "athlete": "Norma Dumont",
+                "rank": "15          ",
+                "img_src": "#",
+                "champion": false,
+                "record": "6-1-0 (W-L-D)",
+                "nickname": "The Imortal"
+            }
+        ],
+        "weight_class": "Women's Bantamweight"
+    }
+]
